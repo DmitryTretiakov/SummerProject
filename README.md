@@ -29,4 +29,4 @@ The "light" model “bert_en_uncased_L-12_H-768_A-12" is used.
 - H-768 : 768 neurons (dimension of the hidden layer)
 - A-12 : 12 attention modules
 
-The best result for 6 emotions according to Ackerman and neutral accuracy 59.3% Micro F1 68.6
+The best result for 6 emotions according to Ackerman and neutral accuracy 59.3%, Macro F1 = 0.493
